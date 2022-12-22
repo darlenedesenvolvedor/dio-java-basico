@@ -9,8 +9,8 @@ public class tiposVariaveis {
         int anoNascimento= 1992;
         int anoAtual= 2022;
         
-        int soma_Idade= (anoAtual - anoNascimento);
+        int idade= (anoAtual - anoNascimento);
 
-        System.out.println(soma_Idade);
+        System.out.println(idade);
     }
 }
